@@ -49,7 +49,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     implementation(project(":common"))
-    implementation 'com.github.ivanamper00:TalonNiDaku:2.1.1'
+    implementation 'com.github.ivanamper00:TalonNiDaku:2.1.5'
 
     //navigation component
     implementation "androidx.navigation:navigation-fragment:2.4.1"
